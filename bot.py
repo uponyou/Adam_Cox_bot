@@ -18,14 +18,11 @@ def chat(bot, update):
 	logging.info(user_text)
 	update.message.reply_text(user_text)
 
-def game_with_bot(bot, update)
+def game_with_bot(bot, update):
 	text_for_command_game = """Hochesh sigrat' so mnoi v igru? Okey.
 Ya mogu ugadat' tvoe imya s pervoi popitki.. Smotri"""
 	update.message.reply_text("""Tebya zovut: {},
 izi je""".format(update.message.chat.first_name))
-
-
-
 
 def main():
 	upd = Updater(settings.TELEGRAM_API_KEY)
