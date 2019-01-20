@@ -1,39 +1,38 @@
 import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+import apiai, json
 
+from datetime import datetime
 import settings
 
-logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s',
-						  level = logging.INFO,
-						  filename = 'bot.log'
-						  )
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level = logging.INFO, filename = 'bot.log')
 
 def start_bot(bot, update):
-	greeting_for_bot = """Darova, eto moi perviu bot.
-On nechego poka ne umeet delat', toko commanda /game (net)"""
-	update.message.reply_text(greeting_for_bot)
+	bot.send_message(chat_id=update.message.chat_id, text='Darova, ti so mnoi seichas budesh obshatsa. Ti menya ponyal?')
 
-def chat(bot, update):
-	user_text = update.message.text
-	logging.info(user_text)
-	update.message.reply_text(user_text)
-
-def game_with_bot(bot, update):
-	text_for_command_game = """Hochesh sigrat' so mnoi v igru? Okey.
-Ya mogu ugadat' tvoe imya s pervoi popitki.. Smotri"""
-	update.message.reply_text("""Tebya zovut: {},
-izi je""".format(update.message.chat.first_name))
+def chatting(bot, update):
+	request = apiai.ApiAI('SOME_API_KEY').text_request()
+	request.lang = 'ru'
+	request.session_id = 'BatlabAIBot'
+	request.query = update.message.text
+	responseJson = json.loads(request.getresponse().read().decode('utf-8'))
+	response = responseJson['result']['fulfillment']['speech']
+	if response:
+		bot.send_message(chat_id=update.message.chat_id, text=response)
+	else:
+		bot.send_message(chat_id=update.message.chat_id, text='ti che nesesh? Ya tebe je po ruski govoru..') 
 
 def main():
 	upd = Updater(settings.TELEGRAM_API_KEY)
+	dispatcher = upd.dispatcher
 
-	upd.dispatcher.add_handler(CommandHandler("start", start_bot))
-	upd.dispatcher.add_handler(CommandHandler("game", game_with_bot))
-	upd.dispatcher.add_handler(MessageHandler(Filters.text, chat))
+	dispatcher.add_handler(CommandHandler("start", start_bot))	
+	dispatcher.add_handler(MessageHandler(Filters.text, chatting))
 	
-	upd.start_polling()
+	upd.start_polling(clean=True)
 	upd.idle()
 
 if __name__ == "__main__":
 	logging.info('Bot started')
 	main()
+	
