@@ -1,0 +1,60 @@
+{
+  "CHAMBORD": {
+    "Tittle": "CHAMBORD",
+    "Description": "Entrée :  Emietté de saumon et mousse d'asperge verte Plat :  Tataki de thon, riz basmati aux fèves de soja, radis, aromates fumés, sauce soja, coulis piment jalapeño et citron vert Fromage affiné AOP et pain multicéréales Dessert :  Duo d'entremets chocolat cassis et fraise fromage blanc",
+    "Icon": "icon icon-product-poisson",
+    "PreviewImg": "normal-a318782a851ade713f0de00e5b1265c1356a3ab2.jpg",
+    "BigImg": "big-a318782a851ade713f0de00e5b1265c1356a3ab2.jpg",
+    "Allergens": [
+      "Poissons",
+      "Lait",
+      "Soja",
+      "Fruits à coques",
+      "Gluten",
+      "Oeufs",
+      "Sésame"
+    ]
+  },
+  "MINI PAIN PERENNE SUPPLEMENTAIRE": {
+    "Tittle": "MINI PAIN PERENNE SUPPLEMENTAIRE",
+    "Description": "Petit pain aux céréales Poids net : 70 g",
+    "Icon": "",
+    "PreviewImg": "normal-898cd9d5a344abe67f8509c89dd7cb45916d2447.jpg",
+    "BigImg": "big-898cd9d5a344abe67f8509c89dd7cb45916d2447.jpg",
+    "Allergens": [
+      "Gluten",
+      "Sésame"
+    ]
+  },
+  "VERSAILLES": {
+    "Tittle": "VERSAILLES",
+    "Description": "Entrée :  Foie gras aux épices et cacao, compotée de mangue et mâche Plat :  Onglet de veau et écrasé de pommes de terre cœur coulant à la truffe, fondant d'artichaut, sauce vierge, roquette et épinard Fromage affiné AOP et pain multicéréales Dessert : Duo d'entremets poire chocolat et orangette",
+    "Icon": "",
+    "PreviewImg": "normal-84329b44e13844a533faec7eb65922733a433a9e.jpg",
+    "BigImg": "big-84329b44e13844a533faec7eb65922733a433a9e.jpg",
+    "Allergens": [
+      "Lait",
+      "Fruits à coques",
+      "Gluten",
+      "Oeufs",
+      "Soja",
+      "Sésame"
+    ]
+  },
+  "FONTAINEBLEAU": {
+    "Tittle": "FONTAINEBLEAU",
+    "Description": "Entrée : Saumon fumé sauvage, yaourt grec, œufs de lompe   Plat : Filet de poulet au sirop d'érable, polenta et duxelle de champignons, millefeuille aux 2 carottes,  graines de grenade, crème de parmesan, mâche  Fromage affiné AOP et pain multicéréales  Dessert : Duo d'entremets chocolat noisette et fruits rouges pistache    ERRATUM:  le roulé de courgette à la carotte en photo est remplacé par le millefeuilles aux 2 carottes",
+    "Icon": "icon icon-product-poulet",
+    "PreviewImg": "normal-34a11e5b3a17e7394971bc41efb3bacd8b7108e9.jpg",
+    "BigImg": "big-34a11e5b3a17e7394971bc41efb3bacd8b7108e9.jpg",
+    "Allergens": [
+      "Poissons",
+      "Lait",
+      "Fruits à coques",
+      "Gluten",
+      "Oeufs",
+      "Soja",
+      "Sésame"
+    ]
+  }
+}

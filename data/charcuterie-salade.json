@@ -1,0 +1,267 @@
+{
+  "GRANDE SALADE VEGETARIENNE PATES COMPLETES": {
+    "Tittle": "GRANDE SALADE VEGETARIENNE PATES COMPLETES",
+    "Description": "Pâtes complètes, carottes grillées, sauce vierge, tomates cerise, épinard et roquette   pour 10 pers.",
+    "Icon": "",
+    "PreviewImg": "normal-20b0294a206d95158677b68deb92a8ead4ce68c2.jpg",
+    "BigImg": "big-20b0294a206d95158677b68deb92a8ead4ce68c2.jpg",
+    "Allergens": [
+      "Gluten"
+    ]
+  },
+  "GRANDE SALADE DE PATES ET COPPA": {
+    "Tittle": "GRANDE SALADE DE PATES ET COPPA",
+    "Description": "10 pers.  • Pâtes, fondant d’artichaut, roquette, coppa et mozzarella",
+    "Icon": "",
+    "PreviewImg": "normal-ff3b03ce390c4af65378acf51cc81482adc8eafc.jpg",
+    "BigImg": "big-ff3b03ce390c4af65378acf51cc81482adc8eafc.jpg",
+    "Allergens": [
+      "Gluten",
+      "Sulfites",
+      "Lait"
+    ]
+  },
+  "GRANDE SALADE DE RIZ AUX LEGUMES": {
+    "Tittle": "GRANDE SALADE DE RIZ AUX LEGUMES",
+    "Description": "Conseillé pour 10 personnes Riz basmati, coleslaw, pois gourmands et estragon A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-c065737a9dfc218ae0f2626e3efb2d538bb53437.jpg",
+    "BigImg": "big-c065737a9dfc218ae0f2626e3efb2d538bb53437.jpg",
+    "Allergens": [
+      "Oeufs",
+      "Moutarde"
+    ]
+  },
+  "GRANDE SALADE VEGETARIENNE DE LEGUMES GRILLES": {
+    "Tittle": "GRANDE SALADE VEGETARIENNE DE LEGUMES GRILLES",
+    "Description": "Légumes cuisinés à l’huile d’olive, roquette et caramel balsamique de Modène   10 pers.",
+    "Icon": "",
+    "PreviewImg": "normal-1b05c056428f507933b52796bb0b3a82b3d17a5b.jpg",
+    "BigImg": "big-1b05c056428f507933b52796bb0b3a82b3d17a5b.jpg",
+    "Allergens": [
+      "Sulfites"
+    ]
+  },
+  "GRANDE SALADE DE PATES ET SAUMON": {
+    "Tittle": "GRANDE SALADE DE PATES ET SAUMON",
+    "Description": "10 pers.  • Pâtes, sauce fromage blanc, roquette et miettes de saumon fumé",
+    "Icon": "",
+    "PreviewImg": "normal-af128b9277638d81c9ac48a065796e5903277f69.jpg",
+    "BigImg": "big-af128b9277638d81c9ac48a065796e5903277f69.jpg",
+    "Allergens": [
+      "Gluten",
+      "Poissons",
+      "Oeufs",
+      "Moutarde",
+      "Sulfites",
+      "Lait"
+    ]
+  },
+  "GRANDE SALADE DE TABOULE AUX LEGUMES VERTS": {
+    "Tittle": "GRANDE SALADE DE TABOULE AUX LEGUMES VERTS",
+    "Description": "Conseillé pour 10-12 personnes Semoule de blé, légumes verts, concombre, menthe fraiche, vinaigrette au piment doux jalapeno, gingembre et citron  A déguster dans les 2h après la livraison.",
+    "Icon": "icon icon-product-vegetarien",
+    "PreviewImg": "normal-4dc5874ac7c2f59263809e75b88cab3ac5a9f8cf.jpg",
+    "BigImg": "big-4dc5874ac7c2f59263809e75b88cab3ac5a9f8cf.jpg",
+    "Allergens": [
+      "Gluten",
+      "Sulfites"
+    ]
+  },
+  "GRANDE SALADE VEGETARIENNE DE MAIS GRILLE FACON MEXICAINE": {
+    "Tittle": "GRANDE SALADE VEGETARIENNE DE MAIS GRILLE FACON MEXICAINE",
+    "Description": "Maïs grillé façon mexicaine, fèves de soja, tartare de tomates, tomatade, vinaigrette et coriandre fraîche   10 pers.",
+    "Icon": "",
+    "PreviewImg": "normal-52ef9ce01b526f93dd2a2fb1fe3f172061876de4.jpg",
+    "BigImg": "big-52ef9ce01b526f93dd2a2fb1fe3f172061876de4.jpg",
+    "Allergens": [
+      "Sulfites",
+      "Soja"
+    ]
+  },
+  "PLANCHE DE CHARCUTERIE": {
+    "Tittle": "PLANCHE DE CHARCUTERIE",
+    "Description": "10 pers. ASSORTIMENT DE CHARCUTERIE IBÉRIQUE : • Chorizo • Saucisson • Lomo • Jambon cébo • Tomates cerises mi-séchées et cornichons • Pain nature",
+    "Icon": "",
+    "PreviewImg": "normal-9b2f45b07433f9fb464559d151c45c4c3ed4e061.jpg",
+    "BigImg": "big-9b2f45b07433f9fb464559d151c45c4c3ed4e061.jpg",
+    "Allergens": [
+      "Lait",
+      "Moutarde",
+      "Gluten"
+    ]
+  },
+  "PLATEAU FILET DE CANARD": {
+    "Tittle": "PLATEAU FILET DE CANARD",
+    "Description": "Conseillé pour 10 personnes Filet de canard accompagné de carottes en condiment et de figues séchées",
+    "Icon": "",
+    "PreviewImg": "normal-b5fb53b6aab276bc38f7732fc820f5ae118f5e0e.jpg",
+    "BigImg": "big-b5fb53b6aab276bc38f7732fc820f5ae118f5e0e.jpg",
+    "Allergens": [
+      "Lait",
+      "Moutarde",
+      "Sulfites"
+    ]
+  },
+  "PLATEAU BOEUF": {
+    "Tittle": "PLATEAU BOEUF",
+    "Description": "Conseillé pour 10 personnes  Rôti de bœuf accompagné de mayonnaise et de moutarde",
+    "Icon": "",
+    "PreviewImg": "normal-6105f4d84cdb57886be9f1e314c7fcfb7e460fec.jpg",
+    "BigImg": "big-6105f4d84cdb57886be9f1e314c7fcfb7e460fec.jpg",
+    "Allergens": [
+      "Oeufs",
+      "Moutarde",
+      "Sulfites"
+    ]
+  },
+  "GRANDE SALADE DE PATES AUX LEGUMES": {
+    "Tittle": "GRANDE SALADE DE PATES AUX LEGUMES",
+    "Description": "Conseillé pour 10-12 personnes Pâtes fusilli, sauce vierge aux olives, confit de tomates séchées, légumes grillés, parmesan, roquette  A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-25d3de506c8c0582de90655f751524f943280581.jpg",
+    "BigImg": "big-25d3de506c8c0582de90655f751524f943280581.jpg",
+    "Allergens": [
+      "Lait",
+      "Gluten"
+    ]
+  },
+  "GAZPACHO A PARTAGER": {
+    "Tittle": "GAZPACHO A PARTAGER",
+    "Description": "Conseillé pour 10 personnes Soupe froide méditerranéenne aux légumes A consommer dans les 2 heures après la livraison",
+    "Icon": "",
+    "PreviewImg": "normal-47e90985cdda02b40f70ca6d27c5ea8df4f2755c.jpg",
+    "BigImg": "big-47e90985cdda02b40f70ca6d27c5ea8df4f2755c.jpg",
+    "Allergens": []
+  },
+  "NAPPAGE POUR 10 PERSONNES": {
+    "Tittle": "NAPPAGE POUR 10 PERSONNES",
+    "Description": "Nappage couleur chocolat et chemin de table vert anis. Votre cocktail sera nappé et dressé.",
+    "Icon": "",
+    "PreviewImg": "normal-9fe562782e2bb5123ba4c790daec13ca3621b7ca.jpg",
+    "BigImg": "big-9fe562782e2bb5123ba4c790daec13ca3621b7ca.jpg",
+    "Allergens": []
+  },
+  "PLATEAU CRUDITES": {
+    "Tittle": "PLATEAU CRUDITES",
+    "Description": "10 pers.  ASSORTIMENT DE : • Tomates cerises, carotte, concombre et radis  • Sauces : yaourt aux herbes et houmous",
+    "Icon": "",
+    "PreviewImg": "normal-7ef491b5cad190fb06475f00878bf2cd3b399ccf.jpg",
+    "BigImg": "big-7ef491b5cad190fb06475f00878bf2cd3b399ccf.jpg",
+    "Allergens": [
+      "Lait",
+      "Moutarde",
+      "Sulfites",
+      "Sésame"
+    ]
+  },
+  "GRANDE SALADE DE PÂTES ET TOMATES": {
+    "Tittle": "GRANDE SALADE DE PÂTES ET TOMATES",
+    "Description": "Conseillé pour 10 personnes Pâtes fusilli, confit de tomates séchées, tartare de tomate, parmesan et roquette  A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-3bf85f380ecf5a9d257781ff25b4d4ca6d82a5c8.jpg",
+    "BigImg": "big-3bf85f380ecf5a9d257781ff25b4d4ca6d82a5c8.jpg",
+    "Allergens": [
+      "Lait",
+      "Gluten"
+    ]
+  },
+  "GRANDE SALADE VEGETARIENNE DE CAROTTES": {
+    "Tittle": "GRANDE SALADE VEGETARIENNE DE CAROTTES",
+    "Description": "Carottes rapées, graines de grenade, roquette et gomasio   10 pers.",
+    "Icon": "",
+    "PreviewImg": "normal-4170eb696465e5b7cd92a0eb1de0c79235530372.jpg",
+    "BigImg": "big-4170eb696465e5b7cd92a0eb1de0c79235530372.jpg",
+    "Allergens": [
+      "Moutarde",
+      "Sésame"
+    ]
+  },
+  "GRANDE SALADE DE TOMATES": {
+    "Tittle": "GRANDE SALADE DE TOMATES",
+    "Description": "Conseillé pour 10-12 personnes Tomates cerise fraîches et confites, tomates, concombre, roquette, basilic  A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-ac97978358494955df0b47eb234e27ac0081e214.jpg",
+    "BigImg": "big-ac97978358494955df0b47eb234e27ac0081e214.jpg",
+    "Allergens": []
+  },
+  "GRANDE SALADE DE POMMES DE TERRE": {
+    "Tittle": "GRANDE SALADE DE POMMES DE TERRE",
+    "Description": "Conseillé pour 10 personnes Pommes de terre primeur, fourme d'Ambert, cornichons à la russe, mâche betterave sauce moutarde et ciboulette A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-64504b639d3b5ebde4d45d7e6e44f4aee9974b4a.jpg",
+    "BigImg": "big-64504b639d3b5ebde4d45d7e6e44f4aee9974b4a.jpg",
+    "Allergens": [
+      "Lait",
+      "Moutarde",
+      "Oeufs",
+      "Sulfites"
+    ]
+  },
+  "PANIERE DE MINI PAINS": {
+    "Tittle": "PANIERE DE MINI PAINS",
+    "Description": "Assortiment de 15 mini pains",
+    "Icon": "",
+    "PreviewImg": "normal-placeholder.jpg?1558621183",
+    "BigImg": "big-placeholder.jpg?1558621183",
+    "Allergens": [
+      "Gluten",
+      "Sésame"
+    ]
+  },
+  "GRANDE SALADE DE LEGUMES GRILLES": {
+    "Tittle": "GRANDE SALADE DE LEGUMES GRILLES",
+    "Description": "Légumes du soleil grillés, huile d'olive au basilic, caramel balsamique et roquette Prête à déguster, notre salade est déjà assaisonnée A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-730c83a30d2a19f4b94e4c2339ebefde1daf0f24.jpg",
+    "BigImg": "big-730c83a30d2a19f4b94e4c2339ebefde1daf0f24.jpg",
+    "Allergens": []
+  },
+  "PLATEAU DE POISSON": {
+    "Tittle": "PLATEAU DE POISSON",
+    "Description": "10 pers.  • Saumon fumé aux épices douces • Citron • Sauce yaourt au thym",
+    "Icon": "",
+    "PreviewImg": "normal-b444a0cc62f5b5f9e9ceef1eac5564f4c2e27cd2.jpg",
+    "BigImg": "big-b444a0cc62f5b5f9e9ceef1eac5564f4c2e27cd2.jpg",
+    "Allergens": [
+      "Poissons",
+      "Moutarde",
+      "Sulfites",
+      "Lait"
+    ]
+  },
+  "GRANDE SALADE DE PÂTES": {
+    "Tittle": "GRANDE SALADE DE PÂTES",
+    "Description": "Conseillé pour 10 personnes Conchiglie, tomate cerise, sauce vierge à l’huile d’olive, tomates mi-séchées, olives, cornichons, oignons, pignons de pin et basilic, menthe fraîche  A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-2c44152d2af803f23fbb0ba2a45f1ce3b00c12cb.jpg",
+    "BigImg": "big-2c44152d2af803f23fbb0ba2a45f1ce3b00c12cb.jpg",
+    "Allergens": [
+      "Sésame",
+      "Gluten"
+    ]
+  },
+  "GRANDE SALADE VEGETARIENNE DE BOULGOUR": {
+    "Tittle": "GRANDE SALADE VEGETARIENNE DE BOULGOUR",
+    "Description": "Boulgour, tartare de tomates, concombre, fèves de soja, tomates cerises, sauce au piment d’Espelette  10 pers.",
+    "Icon": "",
+    "PreviewImg": "normal-67bef882b8eae09a9248def715adde5a3e8d51d5.jpg",
+    "BigImg": "big-67bef882b8eae09a9248def715adde5a3e8d51d5.jpg",
+    "Allergens": [
+      "Gluten",
+      "Soja",
+      "Sulfites",
+      "Moutarde"
+    ]
+  },
+  "GRANDE SALADE DE CAROTTES RAPEES": {
+    "Tittle": "GRANDE SALADE DE CAROTTES RAPEES",
+    "Description": "Conseillé pour 10 personnes Brins de carottes, roquette, cranberries et pignons de pin  A déguster dans les 2h après la livraison.",
+    "Icon": "",
+    "PreviewImg": "normal-ce4e9cb692bb2997da35774fcf1c2a2233046a60.jpg",
+    "BigImg": "big-ce4e9cb692bb2997da35774fcf1c2a2233046a60.jpg",
+    "Allergens": [
+      "Moutarde"
+    ]
+  }
+}
