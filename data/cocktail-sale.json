@@ -173,7 +173,7 @@
   },
   "PLATEAU SALE ECRINS": {
     "Tittle": "PLATEAU SALE ECRINS",
-    "Description": "40 pièces Mini wrap au thon et caviar d'aubergine, nems croustillant aux légumes, toasts au bloc de foie gras de canard 30% de morceaux et compotée de fruit, toasts au jambon sec et tomate A consommer dans les 2 heures après la livraison",
+    "Description": "40 pièces Mini wrap au thon et caviar d&#039;aubergine, nems croustillant aux légumes, toasts au bloc de foie gras de canard 30% de morceaux et compotée de fruit, toasts au jambon sec et tomate A consommer dans les 2 heures après la livraison",
     "Icon": "",
     "PreviewImg": "normal-0d317a6556e7d3d7ad5e312ce947c7dbc12abb99.jpg",
     "BigImg": "big-0d317a6556e7d3d7ad5e312ce947c7dbc12abb99.jpg",
@@ -312,7 +312,7 @@
   },
   "PLATEAU SALE VENTOUX": {
     "Tittle": "PLATEAU SALE VENTOUX",
-    "Description": "40 pièces Mini brioche au filet de poulet en salaison et sauce barbecue, mini wrap au thon et caviar d'aubergine A consommer dans les 2 heures après la livraiso",
+    "Description": "40 pièces Mini brioche au filet de poulet en salaison et sauce barbecue, mini wrap au thon et caviar d&#039;aubergine A consommer dans les 2 heures après la livraiso",
     "Icon": "",
     "PreviewImg": "normal-5a0ec7d9efbd371214dc0764a155eaafb6e79034.jpg",
     "BigImg": "big-5a0ec7d9efbd371214dc0764a155eaafb6e79034.jpg",
@@ -323,32 +323,6 @@
       "Moutarde",
       "Sulfites",
       "Poissons",
-      "Lait"
-    ]
-  },
-  "MINI CAKES": {
-    "Tittle": "MINI CAKES",
-    "Description": "50 pièces Assortiment de cakes : Olives, tomates  Poivrons  Tomatade Roquefort",
-    "Icon": "",
-    "PreviewImg": "normal-028c70ff3ef00629469700ff169d5f0bb33f6206.jpg",
-    "BigImg": "big-028c70ff3ef00629469700ff169d5f0bb33f6206.jpg",
-    "Allergens": [
-      "Gluten",
-      "Oeufs",
-      "Fruits à coques",
-      "Sésame",
-      "Lait"
-    ]
-  },
-  "BOX SUCREE SALEE": {
-    "Tittle": "BOX SUCREE SALEE",
-    "Description": "130 pièces à partager : - 30 mini brioches - 32 mini wraps - 32 samossas de légumes croustillants - 18 mini canelé de Bordeaux - 18 mini moelleux chocolat  A déguster dans les 2h après la livraison.",
-    "Icon": "",
-    "PreviewImg": "normal-75ec00e80c054ff58fd1e93820ae9e7d039d9c66.jpg",
-    "BigImg": "big-75ec00e80c054ff58fd1e93820ae9e7d039d9c66.jpg",
-    "Allergens": [
-      "Gluten",
-      "Oeufs",
       "Lait"
     ]
   },
