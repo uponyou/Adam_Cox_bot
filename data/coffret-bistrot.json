@@ -1,109 +1,131 @@
 {
-  "PROMENADE DES ANGLAIS": {
-    "Tittle": "PROMENADE DES ANGLAIS",
-    "Description": "Entrée : Sablé au fromage et fondant d&#039;artichaut, roquette et coulis de poivron  Plat :  Filet de colin d&#039;Alaska façon fish & chips, pomme de terre grenaille, sauce fromage blanc et tomates                                                                                                                        Dessert du moment                                                                          Petit pain Farine Label Rouge",
-    "Icon": "icon icon-product-poisson",
-    "PreviewImg": "normal-6173290f2dc5e05ba5e3965aeb93e15d24847d37.jpg",
-    "BigImg": "big-6173290f2dc5e05ba5e3965aeb93e15d24847d37.jpg",
-    "Allergens": [
-      "Gluten",
-      "Lait",
-      "Moutarde",
-      "Sulfites",
-      "Oeufs",
-      "Poissons",
-      "Soja",
-      "Fruits à coques"
-    ]
+  "products": {
+    "PROMENADE DES ANGLAIS": {
+      "Tittle": "PROMENADE DES ANGLAIS",
+      "Description": "Entrée : Sablé au fromage et fondant d&#039;artichaut, roquette et coulis de poivron  Plat :  Filet de colin d&#039;Alaska façon fish & chips, pomme de terre grenaille, sauce fromage blanc et tomates                                                                                                                        Dessert du moment                                                                          Petit pain Farine Label Rouge",
+      "Icon": "icon icon-product-poisson",
+      "PreviewImg": "normal-6173290f2dc5e05ba5e3965aeb93e15d24847d37.jpg",
+      "BigImg": "big-6173290f2dc5e05ba5e3965aeb93e15d24847d37.jpg",
+      "ProductUrl": "promenade-des-anglais",
+      "Allergens": [
+        "Gluten",
+        "Lait",
+        "Moutarde",
+        "Sulfites",
+        "Oeufs",
+        "Poissons",
+        "Soja",
+        "Fruits à coques"
+      ]
+    },
+    "PLACE DE MEXICO": {
+      "Tittle": "PLACE DE MEXICO",
+      "Description": "Entrée : Tartare de tomates et purée de mangue, oignon rouge, épinard et coriandre fraiche Plat : Galette de blé et salade de maïs grillé façon mexicaine et riz, chiffonnade de dinde en salaison, guacamole et coulis piment jalapeño                                                                                                                         Dessert du moment                                                                           Petit pain Farine Label Rouge",
+      "Icon": "icon icon-product-dinde",
+      "PreviewImg": "normal-01672c825b6c01ac3a33c25741064af55f73fabf.jpg",
+      "BigImg": "big-01672c825b6c01ac3a33c25741064af55f73fabf.jpg",
+      "ProductUrl": "place-de-mexico",
+      "Allergens": [
+        "Gluten",
+        "Sulfites",
+        "Oeufs",
+        "Soja",
+        "Fruits à coques",
+        "Lait"
+      ]
+    },
+    "VOIE ROMAINE": {
+      "Tittle": "VOIE ROMAINE",
+      "Description": "Entrée : Carottes râpées au gomasio, graines de grenade et roquette Plat :  Salade de penne au filet de poulet en salaison, tomates cerises, sauce Caesar, parmesan et graines grillées                                                                                                                            Dessert du moment                                                                           Petit pain Farine Label Rouge",
+      "Icon": "icon icon-product-poulet",
+      "PreviewImg": "normal-e2f89473898a758d7805fbcb2677e629522b1262.jpg",
+      "BigImg": "big-e2f89473898a758d7805fbcb2677e629522b1262.jpg",
+      "ProductUrl": "voie-romaine",
+      "Allergens": [
+        "Moutarde",
+        "Sésame",
+        "Gluten",
+        "Oeufs",
+        "Poissons",
+        "Lait",
+        "Soja",
+        "Fruits à coques"
+      ]
+    },
+    "QUARTIER SANS GLUTEN": {
+      "Tittle": "QUARTIER SANS GLUTEN",
+      "Description": "Entrée :  Cake tomate et fromage de chèvre Plat :  Tartelette au jambon et aux légumes  Dessert :  Tartelette chocolat au lait et caramel Quartiers de pommes croquantes",
+      "Icon": "",
+      "PreviewImg": "normal-87a65f4400b9034020881db7745cd6fc666811c1.jpg",
+      "BigImg": "big-87a65f4400b9034020881db7745cd6fc666811c1.jpg",
+      "ProductUrl": "quartier-sans-gluten",
+      "Allergens": [
+        "Oeufs",
+        "Lait"
+      ]
+    },
+    "PLACE DU MARCHE": {
+      "Tittle": "PLACE DU MARCHE",
+      "Description": "Entrée :  Frittata de légumes, roquette et coulis de menthe Plat :  Salade de lentilles aux fèves de soja et radis, oeuf poché, vinaigrette la moutarde, mâche et persil                                                                                                                        Dessert du moment                                                                                Petit pain Farine Label Rouge",
+      "Icon": "icon icon-product-vegetarien",
+      "PreviewImg": "normal-30c973a3efb349095855daf4b5641e95e7d1525d.jpg",
+      "BigImg": "big-30c973a3efb349095855daf4b5641e95e7d1525d.jpg",
+      "ProductUrl": "place-du-marche",
+      "Allergens": [
+        "Oeufs",
+        "Lait",
+        "Soja",
+        "Sulfites",
+        "Moutarde",
+        "Gluten",
+        "Fruits à coques"
+      ]
+    },
+    "RUE DE CASABLANCA": {
+      "Tittle": "RUE DE CASABLANCA",
+      "Description": "Entrée :  Patate douce grillée et mélange de légumes aux aromates fumés et caramel balsamique de Modène Plat :  Poelée de quinoa aux légumes et au thon à la sauce vierge et menthe                                                                                                                        Dessert du moment                                                                           Petit pain Farine Label Rouge",
+      "Icon": "icon icon-product-poisson",
+      "PreviewImg": "normal-78dd6addcf82682daef87930b3d78d35018e3998.jpg",
+      "BigImg": "big-78dd6addcf82682daef87930b3d78d35018e3998.jpg",
+      "ProductUrl": "rue-de-casablanca",
+      "Allergens": [
+        "Sulfites",
+        "Soja",
+        "Poissons",
+        "Gluten",
+        "Oeufs",
+        "Fruits à coques",
+        "Lait"
+      ]
+    },
+    "AVENUE D ITALIE": {
+      "Tittle": "AVENUE D ITALIE",
+      "Description": "Entrée :  Trio de tomates cerises aux herbes aromatiques et basilic frais Plat : Salade de pâtes fusilli à la mozzarella et fondant d&#039;artichaut, coppa et roquette                                                                                                                        Dessert du moment                                                                           Petit pain Farine Label Rouge",
+      "Icon": "icon icon-product-porc",
+      "PreviewImg": "normal-40ada46afd5956b407c292465fb0fa107203a4d4.jpg",
+      "BigImg": "big-40ada46afd5956b407c292465fb0fa107203a4d4.jpg",
+      "ProductUrl": "avenue-d-italie",
+      "Allergens": [
+        "Sulfites",
+        "Gluten",
+        "Lait",
+        "Oeufs",
+        "Soja",
+        "Fruits à coques"
+      ]
+    }
   },
-  "PLACE DE MEXICO": {
-    "Tittle": "PLACE DE MEXICO",
-    "Description": "Entrée : Tartare de tomates et purée de mangue, oignon rouge, épinard et coriandre fraiche Plat : Galette de blé et salade de maïs grillé façon mexicaine et riz, chiffonnade de dinde en salaison, guacamole et coulis piment jalapeño                                                                                                                         Dessert du moment                                                                           Petit pain Farine Label Rouge",
-    "Icon": "icon icon-product-dinde",
-    "PreviewImg": "normal-01672c825b6c01ac3a33c25741064af55f73fabf.jpg",
-    "BigImg": "big-01672c825b6c01ac3a33c25741064af55f73fabf.jpg",
-    "Allergens": [
-      "Gluten",
-      "Sulfites",
-      "Oeufs",
-      "Soja",
-      "Fruits à coques",
-      "Lait"
-    ]
-  },
-  "VOIE ROMAINE": {
-    "Tittle": "VOIE ROMAINE",
-    "Description": "Entrée : Carottes râpées au gomasio, graines de grenade et roquette Plat :  Salade de penne au filet de poulet en salaison, tomates cerises, sauce Caesar, parmesan et graines grillées                                                                                                                            Dessert du moment                                                                           Petit pain Farine Label Rouge",
-    "Icon": "icon icon-product-poulet",
-    "PreviewImg": "normal-e2f89473898a758d7805fbcb2677e629522b1262.jpg",
-    "BigImg": "big-e2f89473898a758d7805fbcb2677e629522b1262.jpg",
-    "Allergens": [
-      "Moutarde",
-      "Sésame",
-      "Gluten",
-      "Oeufs",
-      "Poissons",
-      "Lait",
-      "Soja",
-      "Fruits à coques"
-    ]
-  },
-  "QUARTIER SANS GLUTEN": {
-    "Tittle": "QUARTIER SANS GLUTEN",
-    "Description": "Entrée :  Cake tomate et fromage de chèvre Plat :  Tartelette au jambon et aux légumes  Dessert :  Tartelette chocolat au lait et caramel Quartiers de pommes croquantes",
-    "Icon": "",
-    "PreviewImg": "normal-87a65f4400b9034020881db7745cd6fc666811c1.jpg",
-    "BigImg": "big-87a65f4400b9034020881db7745cd6fc666811c1.jpg",
-    "Allergens": [
-      "Oeufs",
-      "Lait"
-    ]
-  },
-  "PLACE DU MARCHE": {
-    "Tittle": "PLACE DU MARCHE",
-    "Description": "Entrée :  Frittata de légumes, roquette et coulis de menthe Plat :  Salade de lentilles aux fèves de soja et radis, oeuf poché, vinaigrette la moutarde, mâche et persil                                                                                                                        Dessert du moment                                                                                Petit pain Farine Label Rouge",
-    "Icon": "icon icon-product-vegetarien",
-    "PreviewImg": "normal-30c973a3efb349095855daf4b5641e95e7d1525d.jpg",
-    "BigImg": "big-30c973a3efb349095855daf4b5641e95e7d1525d.jpg",
-    "Allergens": [
-      "Oeufs",
-      "Lait",
-      "Soja",
-      "Sulfites",
-      "Moutarde",
-      "Gluten",
-      "Fruits à coques"
-    ]
-  },
-  "RUE DE CASABLANCA": {
-    "Tittle": "RUE DE CASABLANCA",
-    "Description": "Entrée :  Patate douce grillée et mélange de légumes aux aromates fumés et caramel balsamique de Modène Plat :  Poelée de quinoa aux légumes et au thon à la sauce vierge et menthe                                                                                                                        Dessert du moment                                                                           Petit pain Farine Label Rouge",
-    "Icon": "icon icon-product-poisson",
-    "PreviewImg": "normal-78dd6addcf82682daef87930b3d78d35018e3998.jpg",
-    "BigImg": "big-78dd6addcf82682daef87930b3d78d35018e3998.jpg",
-    "Allergens": [
-      "Sulfites",
-      "Soja",
-      "Poissons",
-      "Gluten",
-      "Oeufs",
-      "Fruits à coques",
-      "Lait"
-    ]
-  },
-  "AVENUE D ITALIE": {
-    "Tittle": "AVENUE D ITALIE",
-    "Description": "Entrée :  Trio de tomates cerises aux herbes aromatiques et basilic frais Plat : Salade de pâtes fusilli à la mozzarella et fondant d&#039;artichaut, coppa et roquette                                                                                                                        Dessert du moment                                                                           Petit pain Farine Label Rouge",
-    "Icon": "icon icon-product-porc",
-    "PreviewImg": "normal-40ada46afd5956b407c292465fb0fa107203a4d4.jpg",
-    "BigImg": "big-40ada46afd5956b407c292465fb0fa107203a4d4.jpg",
-    "Allergens": [
-      "Sulfites",
-      "Gluten",
-      "Lait",
-      "Oeufs",
-      "Soja",
-      "Fruits à coques"
+  "head": {
+    "Header": "QUEL COFFRET SOUHAITEZ-VOUS ?",
+    "FiltersCat": [
+      "Plateaux sandwich",
+      "Plateaux bistrot",
+      "Plateaux classic",
+      "Plateaux premium",
+      "Plateaux à partager"
+    ],
+    "FiltersSpe": [
+      "Végétarien"
     ]
   }
 }

@@ -1,93 +1,114 @@
 {
-  "NAPPAGE POUR 10 PERSONNES": {
-    "Tittle": "NAPPAGE POUR 10 PERSONNES",
-    "Description": "Nappage couleur chocolat et chemin de table vert anis. Votre cocktail sera nappé et dressé.",
-    "Icon": "",
-    "PreviewImg": "normal-9fe562782e2bb5123ba4c790daec13ca3621b7ca.jpg",
-    "BigImg": "big-9fe562782e2bb5123ba4c790daec13ca3621b7ca.jpg",
-    "Allergens": []
+  "products": {
+    "NAPPAGE POUR 10 PERSONNES": {
+      "Tittle": "NAPPAGE POUR 10 PERSONNES",
+      "Description": "Nappage couleur chocolat et chemin de table vert anis. Votre cocktail sera nappé et dressé.",
+      "Icon": "",
+      "PreviewImg": "normal-9fe562782e2bb5123ba4c790daec13ca3621b7ca.jpg",
+      "BigImg": "big-9fe562782e2bb5123ba4c790daec13ca3621b7ca.jpg",
+      "ProductUrl": "nappage",
+      "Allergens": []
+    },
+    "TARTE AUX ABRICOTS": {
+      "Tittle": "TARTE AUX ABRICOTS",
+      "Description": "10 pers.  tarte aux abricots",
+      "Icon": "",
+      "PreviewImg": "normal-a1549de660898dde17a25241762de87aadc79059.jpg",
+      "BigImg": "big-a1549de660898dde17a25241762de87aadc79059.jpg",
+      "ProductUrl": "tarte-aux-abricots",
+      "Allergens": [
+        "Gluten",
+        "Oeufs",
+        "Fruits à coques",
+        "Lait"
+      ]
+    },
+    "MOELLEUX AU CHOCOLAT": {
+      "Tittle": "MOELLEUX AU CHOCOLAT",
+      "Description": "10 pers.  Moelleux au chocolat",
+      "Icon": "",
+      "PreviewImg": "normal-52a82e52825e94529fd16bc5492550ddbe8410a0.jpg",
+      "BigImg": "big-52a82e52825e94529fd16bc5492550ddbe8410a0.jpg",
+      "ProductUrl": "moelleux-au-chocolat-a-partager",
+      "Allergens": [
+        "Gluten",
+        "Oeufs",
+        "Soja",
+        "Lait"
+      ]
+    },
+    "PLATEAU DE FROMAGE": {
+      "Tittle": "PLATEAU DE FROMAGE",
+      "Description": "10 pers.  ASSORTIMENT DE : • Tête de moine • Camembert AOP • Fourme d’Ambert AOP • Chevrillon • Quartiers de pomme • Pain aux céréales et beurre",
+      "Icon": "",
+      "PreviewImg": "normal-5fd7271237250221c0357f4cb2ad95e978d18663.jpg",
+      "BigImg": "big-5fd7271237250221c0357f4cb2ad95e978d18663.jpg",
+      "ProductUrl": "plateau-de-fromage",
+      "Allergens": [
+        "Lait",
+        "Gluten",
+        "Sésame"
+      ]
+    },
+    "PANIERE DE MINI PAINS": {
+      "Tittle": "PANIERE DE MINI PAINS",
+      "Description": "Assortiment de 15 mini pains",
+      "Icon": "",
+      "PreviewImg": "normal-placeholder.jpg?1558621183",
+      "BigImg": "big-placeholder.jpg?1558621183",
+      "ProductUrl": "paniere-pain",
+      "Allergens": [
+        "Gluten",
+        "Sésame"
+      ]
+    },
+    "GRANDE SALADE DE FRUITS ET MENTHE": {
+      "Tittle": "GRANDE SALADE DE FRUITS ET MENTHE",
+      "Description": "Conseillé pour 10-12 personnes  Mangue, ananas, raisin, orange, sirop et menthe fraiche",
+      "Icon": "",
+      "PreviewImg": "normal-c957f53b6bf588979c8d982577e6340f22ffb5c1.jpg",
+      "BigImg": "big-c957f53b6bf588979c8d982577e6340f22ffb5c1.jpg",
+      "ProductUrl": "gde-salade-fruit",
+      "Allergens": []
+    },
+    "CHEESECAKE FRAMBOISE": {
+      "Tittle": "CHEESECAKE FRAMBOISE",
+      "Description": "Conseillé pour 10-12 personnes Cheesecake Framboise",
+      "Icon": "",
+      "PreviewImg": "normal-998f77d6c5980d4303d0ee392e7024b3d4668c2b.jpg",
+      "BigImg": "big-998f77d6c5980d4303d0ee392e7024b3d4668c2b.jpg",
+      "ProductUrl": "cheese-cake-framboise-a-partager",
+      "Allergens": [
+        "Gluten",
+        "Oeufs",
+        "Fruits à coques",
+        "Lait"
+      ]
+    },
+    "PLATEAU MIXTE": {
+      "Tittle": "PLATEAU MIXTE",
+      "Description": "10 pers. ASSORTIMENT DE : • Charcuteries ibériques  • Coppa • Camembert AOP  • Tête de moine • Chevrillon • Cerneaux de noix, cranberries • Pain aux céréales",
+      "Icon": "",
+      "PreviewImg": "normal-f528a6580cd320fded87822336f95381c2480b18.jpg",
+      "BigImg": "big-f528a6580cd320fded87822336f95381c2480b18.jpg",
+      "ProductUrl": "plateau-mixte",
+      "Allergens": [
+        "Lait",
+        "Fruits à coques",
+        "Gluten",
+        "Sésame"
+      ]
+    }
   },
-  "TARTE AUX ABRICOTS": {
-    "Tittle": "TARTE AUX ABRICOTS",
-    "Description": "10 pers.  tarte aux abricots",
-    "Icon": "",
-    "PreviewImg": "normal-a1549de660898dde17a25241762de87aadc79059.jpg",
-    "BigImg": "big-a1549de660898dde17a25241762de87aadc79059.jpg",
-    "Allergens": [
-      "Gluten",
-      "Oeufs",
-      "Fruits à coques",
-      "Lait"
-    ]
-  },
-  "MOELLEUX AU CHOCOLAT": {
-    "Tittle": "MOELLEUX AU CHOCOLAT",
-    "Description": "10 pers.  Moelleux au chocolat",
-    "Icon": "",
-    "PreviewImg": "normal-52a82e52825e94529fd16bc5492550ddbe8410a0.jpg",
-    "BigImg": "big-52a82e52825e94529fd16bc5492550ddbe8410a0.jpg",
-    "Allergens": [
-      "Gluten",
-      "Oeufs",
-      "Soja",
-      "Lait"
-    ]
-  },
-  "PLATEAU DE FROMAGE": {
-    "Tittle": "PLATEAU DE FROMAGE",
-    "Description": "10 pers.  ASSORTIMENT DE : • Tête de moine • Camembert AOP • Fourme d’Ambert AOP • Chevrillon • Quartiers de pomme • Pain aux céréales et beurre",
-    "Icon": "",
-    "PreviewImg": "normal-5fd7271237250221c0357f4cb2ad95e978d18663.jpg",
-    "BigImg": "big-5fd7271237250221c0357f4cb2ad95e978d18663.jpg",
-    "Allergens": [
-      "Lait",
-      "Gluten",
-      "Sésame"
-    ]
-  },
-  "PANIERE DE MINI PAINS": {
-    "Tittle": "PANIERE DE MINI PAINS",
-    "Description": "Assortiment de 15 mini pains",
-    "Icon": "",
-    "PreviewImg": "normal-placeholder.jpg?1558621183",
-    "BigImg": "big-placeholder.jpg?1558621183",
-    "Allergens": [
-      "Gluten",
-      "Sésame"
-    ]
-  },
-  "GRANDE SALADE DE FRUITS ET MENTHE": {
-    "Tittle": "GRANDE SALADE DE FRUITS ET MENTHE",
-    "Description": "Conseillé pour 10-12 personnes  Mangue, ananas, raisin, orange, sirop et menthe fraiche",
-    "Icon": "",
-    "PreviewImg": "normal-c957f53b6bf588979c8d982577e6340f22ffb5c1.jpg",
-    "BigImg": "big-c957f53b6bf588979c8d982577e6340f22ffb5c1.jpg",
-    "Allergens": []
-  },
-  "CHEESECAKE FRAMBOISE": {
-    "Tittle": "CHEESECAKE FRAMBOISE",
-    "Description": "Conseillé pour 10-12 personnes Cheesecake Framboise",
-    "Icon": "",
-    "PreviewImg": "normal-998f77d6c5980d4303d0ee392e7024b3d4668c2b.jpg",
-    "BigImg": "big-998f77d6c5980d4303d0ee392e7024b3d4668c2b.jpg",
-    "Allergens": [
-      "Gluten",
-      "Oeufs",
-      "Fruits à coques",
-      "Lait"
-    ]
-  },
-  "PLATEAU MIXTE": {
-    "Tittle": "PLATEAU MIXTE",
-    "Description": "10 pers. ASSORTIMENT DE : • Charcuteries ibériques  • Coppa • Camembert AOP  • Tête de moine • Chevrillon • Cerneaux de noix, cranberries • Pain aux céréales",
-    "Icon": "",
-    "PreviewImg": "normal-f528a6580cd320fded87822336f95381c2480b18.jpg",
-    "BigImg": "big-f528a6580cd320fded87822336f95381c2480b18.jpg",
-    "Allergens": [
-      "Lait",
-      "Fruits à coques",
-      "Gluten",
-      "Sésame"
-    ]
+  "head": {
+    "Header": "QUELS PLATS SOUHAITEZ-VOUS ?",
+    "FiltersCat": [
+      "Grandes Salades et Plateaux",
+      "Plateaux de fromages, desserts",
+      "Cocktail salé",
+      "Cocktail sucré",
+      "Plateaux à partager"
+    ],
+    "FiltersSpe": []
   }
 }

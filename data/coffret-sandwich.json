@@ -1,0 +1,63 @@
+{
+  "products": {
+    "COFFRET SANDWICH": {
+      "Tittle": "COFFRET SANDWICH",
+      "Description": "Un sandwich au pain céréales * + 1 petite salad&#039; * + 1 dessert * + 1 Evian ou 1 Badoit verte 50CL * ...",
+      "Icon": "",
+      "PreviewImg": "menu-527731943e8e091785d8ef59468192a489a61ba9.jpg",
+      "BigImg": "menu-527731943e8e091785d8ef59468192a489a61ba9.jpg",
+      "ProductUrl": "coffret-sandwich-web",
+      "Allergens": null,
+      "Header": "composez votre menu Plateaux sandwich",
+      "Exlusive": {
+        "SANDWICH SAUMON": {
+          "Tittle": "SANDWICH SAUMON",
+          "Description": "Pain aux céréales, yaourt grec aux herbes aromatiques et saumon fumé",
+          "Icon": "icon icon-product-chicken",
+          "PreviewImg": "normal-36c0a8fa7df630a4731f454062b5cf6c4d1ba5f6.jpg",
+          "BigImg": "big-36c0a8fa7df630a4731f454062b5cf6c4d1ba5f6.jpg",
+          "ProductUrl": null,
+          "Allergens": null
+        },
+        "SANDWICH JAMBON": {
+          "Tittle": "SANDWICH JAMBON",
+          "Description": "Pain aux céréales, jambon cuit, tomatade et légumes grillés",
+          "Icon": "icon icon-product-chicken",
+          "PreviewImg": "normal-372524eb49e175a08a492086c7026474a2cba182.jpg",
+          "BigImg": "big-372524eb49e175a08a492086c7026474a2cba182.jpg",
+          "ProductUrl": null,
+          "Allergens": null
+        },
+        "SANDWICH MEULE DU DOUBS": {
+          "Tittle": "SANDWICH MEULE DU DOUBS",
+          "Description": "Pain céréales, œuf dur, meule du Doubs, mayonnaise, tomates, batavia et roquette",
+          "Icon": "icon icon-product-chicken",
+          "PreviewImg": "normal-61a0d87724d70dbbc05c93e7f81e231c84981c5d.jpg",
+          "BigImg": "big-61a0d87724d70dbbc05c93e7f81e231c84981c5d.jpg",
+          "ProductUrl": null,
+          "Allergens": null
+        },
+        "SANDWICH POULET": {
+          "Tittle": "SANDWICH POULET",
+          "Description": "Pain aux céréales, aiguillettes de poulet en salaison, tomates séchées et yaourt grec moutardé, roquette",
+          "Icon": "icon icon-product-chicken",
+          "PreviewImg": "normal-1a7b89b036529a62f29f3a9403182a6c8d29fc40.jpg",
+          "BigImg": "big-1a7b89b036529a62f29f3a9403182a6c8d29fc40.jpg",
+          "ProductUrl": null,
+          "Allergens": null
+        }
+      }
+    }
+  },
+  "head": {
+    "Header": "QUEL COFFRET SOUHAITEZ-VOUS ?",
+    "FiltersCat": [
+      "Plateaux sandwich",
+      "Plateaux bistrot",
+      "Plateaux classic",
+      "Plateaux premium",
+      "Plateaux à partager"
+    ],
+    "FiltersSpe": []
+  }
+}
