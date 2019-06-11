@@ -408,7 +408,6 @@
     }
   },
   "head": {
-    "sandwich": {
     "Header": "QUEL SANDWICH SOUHAITEZ-VOUS ?",
     "FiltersCat": [
       "Sandwichs",
